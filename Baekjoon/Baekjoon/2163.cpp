@@ -1,0 +1,13 @@
+/*
+#include <iostream> //초콜릿 자르기
+using namespace std;
+
+int main()
+{
+	int n, m;
+	cin >> n >> m;
+	cout << n * m - 1;
+	
+	return 0;
+}
+*/
