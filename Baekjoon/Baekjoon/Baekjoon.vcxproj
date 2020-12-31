@@ -47,6 +47,7 @@
     <ClCompile Include="11654.cpp" />
     <ClCompile Include="11720.cpp" />
     <ClCompile Include="1188.cpp" />
+    <ClCompile Include="1259.cpp" />
     <ClCompile Include="1330.cpp" />
     <ClCompile Include="1463-incompletion.cpp" />
     <ClCompile Include="1475.cpp" />
