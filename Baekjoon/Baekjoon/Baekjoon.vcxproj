@@ -52,9 +52,11 @@
     <ClCompile Include="1152.cpp" />
     <ClCompile Include="1157-incompletion.cpp" />
     <ClCompile Include="1159.cpp" />
+    <ClCompile Include="11650.cpp" />
     <ClCompile Include="11654.cpp" />
     <ClCompile Include="11720.cpp" />
     <ClCompile Include="1181.cpp" />
+    <ClCompile Include="11866.cpp" />
     <ClCompile Include="1188.cpp" />
     <ClCompile Include="1259.cpp" />
     <ClCompile Include="1330.cpp" />
