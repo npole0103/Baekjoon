@@ -4,8 +4,8 @@
 //#include <algorithm>
 //using namespace std;
 //
+//
 ////binary_search 사용 https://en.cppreference.com/w/cpp/algorithm/binary_search
-////시간 초과나면 printf / scanf 이용해볼 것.
 //
 //int main()
 //{
