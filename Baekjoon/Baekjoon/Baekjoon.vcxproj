@@ -63,6 +63,7 @@
     <ClCompile Include="1259.cpp" />
     <ClCompile Include="1330.cpp" />
     <ClCompile Include="1463-incompletion.cpp" />
+    <ClCompile Include="1463.cpp" />
     <ClCompile Include="1475.cpp" />
     <ClCompile Include="1476.cpp" />
     <ClCompile Include="1557-incompletion-diamond.cpp" />
