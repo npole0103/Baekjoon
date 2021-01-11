@@ -63,11 +63,13 @@
     <ClCompile Include="1259.cpp" />
     <ClCompile Include="1330.cpp" />
     <ClCompile Include="1463-incompletion.cpp" />
-    <ClCompile Include="1463.cpp" />
+    <ClCompile Include="1463-2.cpp" />
     <ClCompile Include="1475.cpp" />
     <ClCompile Include="1476.cpp" />
     <ClCompile Include="1557-incompletion-diamond.cpp" />
+    <ClCompile Include="1620.cpp" />
     <ClCompile Include="1676.cpp" />
+    <ClCompile Include="1697.cpp" />
     <ClCompile Include="1712.cpp" />
     <ClCompile Include="1735.cpp" />
     <ClCompile Include="1764-2.cpp" />
@@ -135,6 +137,9 @@
     <ClCompile Include="9935-5.cpp" />
     <ClCompile Include="9935-6.cpp" />
     <ClCompile Include="9935-incompletion.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="..\..\README.md" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
