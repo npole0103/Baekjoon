@@ -86,6 +86,7 @@
     <ClCompile Include="1924.cpp" />
     <ClCompile Include="1927-2.cpp" />
     <ClCompile Include="1927.cpp" />
+    <ClCompile Include="1931.cpp" />
     <ClCompile Include="1932.cpp" />
     <ClCompile Include="1977.cpp" />
     <ClCompile Include="1978.cpp" />
