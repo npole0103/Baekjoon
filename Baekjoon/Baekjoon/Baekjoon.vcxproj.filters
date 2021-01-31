@@ -378,6 +378,9 @@
     <ClCompile Include="1931.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="2606.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="..\..\README.md">
