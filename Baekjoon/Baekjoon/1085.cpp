@@ -1,5 +1,5 @@
 /*
-#include <iostream> //직사각형 탈출
+#include <iostream> //직사각형에서 탈출
 using namespace std;
 
 int main()

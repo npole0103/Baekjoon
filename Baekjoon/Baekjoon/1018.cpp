@@ -3,7 +3,8 @@
 //#include <string>
 //using namespace std;
 //
-//string whiteNblack[8]{
+//string whiteNblack[8]
+//{
 //	"WBWBWBWB",
 //	"BWBWBWBW",
 //	"WBWBWBWB",
