@@ -54,9 +54,6 @@
     <ClCompile Include="1159.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="1188.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="1330.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
@@ -84,16 +81,10 @@
     <ClCompile Include="1764.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="1764-2.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="1789.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="1904.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="1904-2.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="1912.cpp">
@@ -105,22 +96,10 @@
     <ClCompile Include="1915-2.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="1915-3.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="1924.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="1932.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="1977.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="2156.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="2156-2.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="2163.cpp">
@@ -159,9 +138,6 @@
     <ClCompile Include="2839.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="2851-help.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="2864.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
@@ -198,16 +174,10 @@
     <ClCompile Include="4811-2.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="4811-3.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="4948.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="4948-2.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="5567.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="5598.cpp">
@@ -217,9 +187,6 @@
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="8958.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="8979-incompletion.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="9084.cpp">
@@ -297,31 +264,10 @@
     <ClCompile Include="1259.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="1018.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="1181.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="1920.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="1920-2.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="2164.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="2609.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="2751.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="1978.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="9012.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="10250.cpp">
@@ -351,37 +297,91 @@
     <ClCompile Include="11866.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="1012cpp.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="1074.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="1620.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="1463-2.cpp">
+    <ClCompile Include="1012-dfs.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="1697.cpp">
+    <ClCompile Include="1018-bruteforce.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="1927.cpp">
+    <ClCompile Include="1074-recursive.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="1927-2.cpp">
+    <ClCompile Include="1157-map.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="1931.cpp">
+    <ClCompile Include="1181-stableSort.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="2606.cpp">
+    <ClCompile Include="1188-gcd.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="2630.cpp">
+    <ClCompile Include="1463-2-dp.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="1157.cpp">
+    <ClCompile Include="1697-bfs.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1764-2-set.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1904-2-dp.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1915-3-dp.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1920-2-sort-bs.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1927-heap.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1927-2-heap.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1931-qsort-greedy.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1932-dp.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2156-dp.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2156-2-dp.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2164-queue.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2606-dfs.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2609-gcd-lcm.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2630-dontTry.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2751-set.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2851-help-dp.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="4811-3-dp.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="5567-graph.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="8979-structSort.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="9012-stack.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

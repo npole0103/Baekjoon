@@ -31,6 +31,7 @@ int main()
 		}
 
 	//let's using the dparr to find max_square_value
+	//현재 위치에서 (-1, 0), (0, -1), (-1, -1) 값들 비교해서 그 중 제일 작은 dp값을 (0 ,0) dp에 넣음.
 	for(int i = 1; i < row ; i++)
 		for(int j = 1; j < col; j++)
 			if(arr[i][j] == 1)
