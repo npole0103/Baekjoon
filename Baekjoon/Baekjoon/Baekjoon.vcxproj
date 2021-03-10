@@ -142,6 +142,8 @@
     <ClCompile Include="9935-5.cpp" />
     <ClCompile Include="9935-6-stack.cpp" />
     <ClCompile Include="9935-incompletion.cpp" />
+    <ClCompile Include="sw2.cpp" />
+    <ClCompile Include="sw3.cpp" />
   </ItemGroup>
   <ItemGroup>
     <None Include="..\..\README.md" />
