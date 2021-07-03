@@ -103,7 +103,8 @@
     <ClCompile Include="2562.cpp" />
     <ClCompile Include="2606-dfs.cpp" />
     <ClCompile Include="2609-gcd-lcm.cpp" />
-    <ClCompile Include="2630-dontTry.cpp" />
+    <ClCompile Include="2630-fail.cpp" />
+    <ClCompile Include="2630.cpp" />
     <ClCompile Include="2675.cpp" />
     <ClCompile Include="2739.cpp" />
     <ClCompile Include="2751-set.cpp" />

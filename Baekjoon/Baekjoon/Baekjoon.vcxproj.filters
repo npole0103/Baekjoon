@@ -321,9 +321,6 @@
     <ClCompile Include="2609-gcd-lcm.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="2630-dontTry.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="2751-set.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
@@ -394,6 +391,12 @@
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="14939-backtracking.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2630-fail.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2630.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
