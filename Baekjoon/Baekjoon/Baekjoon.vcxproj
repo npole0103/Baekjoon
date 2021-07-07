@@ -131,6 +131,7 @@
     <ClCompile Include="5567-graph.cpp" />
     <ClCompile Include="5598.cpp" />
     <ClCompile Include="6359.cpp" />
+    <ClCompile Include="7576.cpp" />
     <ClCompile Include="8958.cpp" />
     <ClCompile Include="8979-structSort.cpp" />
     <ClCompile Include="9012-stack.cpp" />
