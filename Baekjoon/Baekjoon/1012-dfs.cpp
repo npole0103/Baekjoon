@@ -20,6 +20,7 @@
 //	if (cabb[i][j].first == 0)
 //		return 0;
 //
+//	//상하좌우 방문표시 하기 위해서 위 과정 수행
 //	if (i != 0) //상
 //		dfsCabb(cabb, i - 1, j);
 //	if (i != n - 1) //하
@@ -45,12 +46,15 @@
 //	{
 //		result = 0;
 //		cin >> m >> n >> k;
+//		//int => 배추의 유무
+//		//bool => 서치의 유무
 //		vector<pair<int, bool>>* cabb = new vector<pair<int, bool>>[n];
 //		
 //		for (int i = 0; i < n; i++)
 //			for(int j = 0; j < m ; j++)
 //				cabb[i].push_back({0, 0});
 //
+//		//배추 심기
 //		for (int i = 0; i < k; i++)
 //		{
 //			cin >> x >> y;
@@ -74,6 +78,6 @@
 //
 //		cout << result << endl;
 //	}
-//
+//	
 //	return 0;
 //}

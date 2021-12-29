@@ -5,6 +5,22 @@ using namespace std;
 
 int main()
 {
+	int t;
+	int a, b;
+	cin >> t;
+
+	while (t-- > 0)
+	{
+		cin >> a >> b;
+		a = pow(a, b % 4 == 0 ? 4 : b % 4);
+		cout << ((a % 10 == 0) ? 10 : a % 10) << endl;
+	}
+}
+*/
+
+/*
+int main()
+{
 	int num;
 	cin >> num;
 	int a[num+1]; //정수
