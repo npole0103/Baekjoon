@@ -23,6 +23,7 @@ int main()
 	// dp [i - 1] 아무것도 먹지 않았을 경우 현재까지 먹어온 최대 포도주 양
 	// dp [i - 2] + wine[i] 현재 먹은 포도주가 첫 잔이 됨
 	// dp [i - 3] + wine[i - 1] + wine[i] 현재 먹은 포도주가 2연속인 경우
+	// 위 3개의 값 중 가장 큰 값을 선택해서 dp를 채워나가면 모든 경우에서의 최댓값 구할 수 있다.
 	
 	for(int i = 3 ; i <= num ; i++)
 		dp[i] = MAX(dp[i - 1], MAX(dp[i - 2] + wine[i], dp[i - 3] + wine[i - 1] + wine[i]));
