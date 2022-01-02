@@ -16,6 +16,7 @@
 //
 //int n, m;
 //int result = 0;
+//
 //vector<int>* arr;
 //queue<pair<int, int>> q;
 //
@@ -77,6 +78,7 @@
 //	{
 //		for (int j = 0; j < m; j++) 
 //		{
+//			//익지 못한 토마토가 하나라도 있다면
 //			if (arr[i][j] == 0) {
 //				cout << "-1" << endl;
 //				return 0;
