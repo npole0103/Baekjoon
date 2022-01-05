@@ -7,7 +7,7 @@
 //
 ////입력 받고 stable_sort로 조건 부 정렬
 //
-//bool compare( pair<int, string> a, pair<int, string> b)
+//bool compare(pair<int, string> a, pair<int, string> b)
 //{
 //	return a.first < b.first;
 //}

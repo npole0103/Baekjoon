@@ -5,6 +5,9 @@ using namespace std;
 int main()
 {
 	// 점화식 card[i] = max(card[i], card[i-j] + p[j])
+	// card[n] n개의 카드를 사는데 최대금액
+	// for문 j를 돌면서 각 조합에 대한 최대금액을 찾음
+
 	int num;
 	cin >> num;
 	int card[1001];
