@@ -50,6 +50,7 @@
     <ClCompile Include="11050.cpp" />
     <ClCompile Include="11052-dp.cpp" />
     <ClCompile Include="1110.cpp" />
+    <ClCompile Include="11279.cpp" />
     <ClCompile Include="1149.cpp" />
     <ClCompile Include="1152.cpp" />
     <ClCompile Include="1157-map.cpp" />
