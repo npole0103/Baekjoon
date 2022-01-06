@@ -60,6 +60,7 @@
     <ClCompile Include="11654.cpp" />
     <ClCompile Include="11720.cpp" />
     <ClCompile Include="11723.cpp" />
+    <ClCompile Include="11724.cpp" />
     <ClCompile Include="1181-stableSort.cpp" />
     <ClCompile Include="11866-queue.cpp" />
     <ClCompile Include="1188-gcd.cpp" />
