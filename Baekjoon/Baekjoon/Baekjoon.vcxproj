@@ -51,6 +51,7 @@
     <ClCompile Include="11052-dp.cpp" />
     <ClCompile Include="1110.cpp" />
     <ClCompile Include="11279.cpp" />
+    <ClCompile Include="11399.cpp" />
     <ClCompile Include="1149.cpp" />
     <ClCompile Include="1152.cpp" />
     <ClCompile Include="1157-map.cpp" />
@@ -58,6 +59,7 @@
     <ClCompile Include="11650-vectorPairCompare.cpp" />
     <ClCompile Include="11654.cpp" />
     <ClCompile Include="11720.cpp" />
+    <ClCompile Include="11723.cpp" />
     <ClCompile Include="1181-stableSort.cpp" />
     <ClCompile Include="11866-queue.cpp" />
     <ClCompile Include="1188-gcd.cpp" />
