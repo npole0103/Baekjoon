@@ -132,6 +132,7 @@
     <ClCompile Include="5598.cpp" />
     <ClCompile Include="6359.cpp" />
     <ClCompile Include="7576.cpp" />
+    <ClCompile Include="7662-2.cpp" />
     <ClCompile Include="7662.cpp" />
     <ClCompile Include="8958.cpp" />
     <ClCompile Include="8979-structSort.cpp" />
