@@ -58,9 +58,13 @@
     <ClCompile Include="1159.cpp" />
     <ClCompile Include="11650-vectorPairCompare.cpp" />
     <ClCompile Include="11654.cpp" />
+    <ClCompile Include="1167-2.cpp" />
+    <ClCompile Include="1167-3.cpp" />
+    <ClCompile Include="1167-graph.cpp" />
     <ClCompile Include="11720.cpp" />
     <ClCompile Include="11723.cpp" />
     <ClCompile Include="11724.cpp" />
+    <ClCompile Include="11726.cpp" />
     <ClCompile Include="1181-stableSort.cpp" />
     <ClCompile Include="11866-queue.cpp" />
     <ClCompile Include="1188-gcd.cpp" />
@@ -81,6 +85,7 @@
     <ClCompile Include="1764-2-set.cpp" />
     <ClCompile Include="1764.cpp" />
     <ClCompile Include="1789.cpp" />
+    <ClCompile Include="18870.cpp" />
     <ClCompile Include="1904-2-dp.cpp" />
     <ClCompile Include="1904.cpp" />
     <ClCompile Include="1912.cpp" />
