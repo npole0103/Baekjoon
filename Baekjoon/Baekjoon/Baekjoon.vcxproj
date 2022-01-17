@@ -78,6 +78,7 @@
     <ClCompile Include="14939-backtracking.cpp" />
     <ClCompile Include="1557-incompletion-diamond.cpp" />
     <ClCompile Include="1620.cpp" />
+    <ClCompile Include="1629.cpp" />
     <ClCompile Include="1676.cpp" />
     <ClCompile Include="1697-bfs.cpp" />
     <ClCompile Include="1712.cpp" />
